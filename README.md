@@ -1,2 +1,0 @@
-# brickpong
-Created with CodeSandbox
